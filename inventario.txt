@@ -1,0 +1,4 @@
+Nombre: Cafe, Marca: gabilondo, Métrica: 1 kg, Caducidad: 12122025, Cantidad: 25, Fecha de entrada: 30112023
+Nombre: galletas maria, Marca: marias, Métrica: 300 gr, Caducidad: 26012024, Cantidad: 10, Fecha de entrada: 30112023
+Nombre: Donas, Marca: Bimbo, Métrica: 500 gr, Caducidad: 24062024, Cantidad: 35, Fecha de entrada: 01122023
+Nombre: Popotes, Marca: Popote mexico, Métrica: 12 cm, Caducidad: s/c, Cantidad: 50, Fecha de entrada: 01122023
